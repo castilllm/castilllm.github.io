@@ -16,7 +16,7 @@ header, footer {
 
 header {
   font-family: 'Lato', sans-serif;
-  color: #F5E6E8;
+  color: #192A51;
   min-height: 100vh;
   display: flex;
 }
@@ -65,7 +65,7 @@ img {
 }
 
 .bio {
-  color: #F5E6E8;
+  color: #192A51;
   font-size: 24px;
   font-family: 'Lato', sans-serif;
 }
