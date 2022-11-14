@@ -9,7 +9,7 @@ body {
 }
 
 header, footer {
-  background-color: #192A51;
+  background-color: #F5E6E8;
   text-align: left;
 /*  min-width: 500px; */
 }
@@ -78,9 +78,9 @@ img {
 
 .myButton {
   border-radius: 28px;
-  border: 1px solid #ffffff;
+  border: 1px solid #192A51;
   cursor: pointer;
-  color: #F5E6E8;
+  color: #192A51;
   font-size: 20px;
   padding: 16px 31px;
   text-decoration: none;
@@ -102,7 +102,7 @@ img {
 }
 
 a {
-  color: #967AA1;
+  color: #A08EB5;
 }
 
 .c {
