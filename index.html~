@@ -30,14 +30,14 @@
 
     <main id="projects">
       <div class="recipe a">
-  <img src="images/redatom.png"/>
+  <img src="images/redatom.png" />
   <h2>BILL NYE DOESN'T DIE</h2>
   <img src="https://content.codecademy.com/courses/learn-css-grid/lesson-ii/time.svg" class="time" />
   <p class="mins">20 mins</p>
   <p class="description">Is Bill Nye the Science Guy Immortal? Quite possibly! Find out more about how <a href="https://medium.com/@castilllm/bill-nye-doesnt-die-b6a7ef241875">Bill Nye Doesn't Die</a> in my blog post about Bill Nye's undying fame!</p>
   </div>
   <div class="recipe b">
-<img src="images/radio.png"/>
+<img src="images/radio.png" />
 <h2>VINE VS. TIKTOK</h2>
 <img src="https://content.codecademy.com/courses/learn-css-grid/lesson-ii/time.svg" class="time" />
 <p class="mins">20 mins</p>
@@ -49,7 +49,7 @@
         <img src="https://content.codecademy.com/courses/learn-css-grid/lesson-ii/time.svg" class="time" />
         <p class="mins">25 mins</p>
         <p class="description">
-          Have you ever wanted to eat like an Ancient Roman, but you're a poor broke college student? Fear not! With my <a href="https://youtu.be/9remNzbl5Cg">Student's Guide to Snacking like an Ancient Roman</a></p>, you can chow down while studying for these finals!</p>
+          Have you ever wanted to eat like an Ancient Roman, but you're a poor broke college student? Fear not! With my <a href="https://youtu.be/9remNzbl5Cg">Student's Guide to Snacking like an Ancient Roman</a>, you can chow down while studying for these finals!</p>
       </div>
       <div class="recipe d">
         <img src="https://content.codecademy.com/courses/learn-css-grid/lesson-ii/image-4.png" />
